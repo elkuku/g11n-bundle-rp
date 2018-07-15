@@ -4,7 +4,6 @@
         "ElKuKu\\G11nBundle\\ElKuKuG11nBundle": ["all"]
     },
     "copy-from-package": {
-#        "config/": "%CONFIG_DIR%/",
         "src/Resources/config/packages/elkuku_g11n.yaml": "%CONFIG_DIR%/packages/elkuku_g11n.yaml"
     },
     "env": {
