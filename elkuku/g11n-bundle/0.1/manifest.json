@@ -1,7 +1,7 @@
 {
     "aliases": ["g11n"],
     "bundles": {
-        "ElKuKu\G11nBundle\ElKuKuG11nBundle": ["all"]
+        "ElKuKu\\G11nBundle\\ElKuKuG11nBundle": ["all"]
     },
     "copy-from-package": {
 #        "config/": "%CONFIG_DIR%/",
