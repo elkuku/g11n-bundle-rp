@@ -1,0 +1,12 @@
+{
+    "aliases": ["g11n"],
+    "bundles": {
+        "ElKuKu\\G11nBundle\\ElKuKuG11nBundle": ["all"]
+    },
+    "copy-from-package": {
+        "src/Resources/config/packages/elkuku_g11n.yaml": "%CONFIG_DIR%/packages/elkuku_g11n.yaml"
+    },
+    "env": {
+        "DEBUG_LANG": "false"
+    }
+}
